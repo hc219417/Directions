@@ -1,0 +1,9 @@
+zero 4 one 8 seven
+one 4 zero 8 two 11 seven
+two 8 one 7 three 4 five 2 eight
+three 7 two 9 four 14 five
+four 9 three 10 five
+five 4 two 14 three 10 four 2 six
+six 2 five 1 seven 6 eight
+seven 8 zero 11 one 1 six 7 eight
+eight 2 two 6 six 7 seven

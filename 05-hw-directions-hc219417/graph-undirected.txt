@@ -1,0 +1,8 @@
+A 2 B 4 C 1 D
+B 2 A 3 D 10 E 
+C 4 A 2 D 5 F
+D 1 A 3 B 2 C 2 E 8 F 4 G 
+E 10 B 2 D 6 G
+F 5 C 8 D 1 G 
+G 4 D 1 F 6 E
+

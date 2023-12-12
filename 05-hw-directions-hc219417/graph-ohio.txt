@@ -1,0 +1,6 @@
+Akron 39 Cleveland 125 Columbus 83 Cambridge
+Columbus 125 Akron 80 Cambridge 148 Cleveland
+Cambridge 80 Columbus 83 Akron 103 Athens
+Athens 74 Columbus 103 Cambridge
+Cleveland 39 Akron 148 Columbus
+Toledo 118 Cleveland 135 Akron 142 Columbus
